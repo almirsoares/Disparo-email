@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2ecc71"            # Verde principal (botões, sliders, etc)
+backgroundColor = "#001f1c"
+secondaryBackgroundColor = "#00332e" # Fundo de painéis
+textColor = "#ffffff"               
+font = "sans serif"
